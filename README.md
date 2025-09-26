@@ -4,7 +4,7 @@ A full DeFi liquidity network built on Aave v3 lending protocol with working con
 
 ## 📖 Overview
 
-### This project serves as both a developer starter kit and an educational playground for understanding DeFi lending.
+#### This project serves as both a developer starter kit and an educational playground for understanding DeFi lending.
 
 It includes:
 
