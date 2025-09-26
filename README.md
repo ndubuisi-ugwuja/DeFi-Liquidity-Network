@@ -4,7 +4,7 @@ A full DeFi liquidity network built on Aave v3 lending protocol with working con
 
 ## 📖 Overview
 
-#### This project serves as both a developer starter kit and an educational playground for understanding DeFi lending.
+### This project serves as both a developer starter kit and an educational playground for understanding DeFi lending.
 
 It includes:
 
@@ -17,8 +17,6 @@ It includes:
 • Borrow & repay workflows with variable interest rate debt
 
 • Modular helper scripts (getWeth, approveErc20, getUserData, getAwethBalance)
-
-Whether you’re building a DeFi dApp, trading bot, or lending dashboard, this repo shows how to wire up real lending mechanics.
 
 ## ⚙️ Setup
 
