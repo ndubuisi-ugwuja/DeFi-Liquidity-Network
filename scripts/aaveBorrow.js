@@ -1,9 +1,9 @@
 const { ethers, network } = require("hardhat");
 const { networkConfig } = require("../helper-hardhat-config");
-const { getWeth, AMOUNT } = require("../scripts/getWeth");
-const { approveErc20 } = require("../scripts/approveErc20");
-const { getUserData } = require("../scripts/getUserData");
-const { getAwethBalance } = require("../scripts/getAwethBalance");
+const { getWeth, AMOUNT } = require("./getWeth");
+const { approveErc20 } = require("./approveErc20");
+const { getUserData } = require("./getUserData");
+const { getAwethBalance } = require("./getAwethBalance");
 
 async function main() {
     await getWeth(); // Mint Weth Token
