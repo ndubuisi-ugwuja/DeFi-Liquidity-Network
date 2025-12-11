@@ -4,13 +4,15 @@ A full DeFi liquidity network built on Aave v3 lending protocol with working con
 
 ## 📖 Overview
 
-### This project serves as both a developer starter kit and an educational playground for understanding DeFi lending.
+### This project serves as both a developer starter kit and an educational playground for understanding DeFi lending
 
 It includes:
 
 • Aave v3 contract interfaces (IPool, IPoolAddressesProvider, ERC20)
 
 • Scripts to interact with Aave pools on Mainnet fork or Sepolia
+
+• A web app for interacting with the protocol
 
 • aToken handling (earning yield on deposits)
 
@@ -20,13 +22,13 @@ It includes:
 
 ## ⚙️ Setup
 
-1. Clone and install
+- Clone and install
 
 ```bash
 git clone https://github.com/ndubuisi-ugwuja/DeFi-Liquidity-Network.git cd DeFi-Liquidity-Network
 ```
 
-2. Configure environment
+- Configure environment
    Create .env file:
 
 ```env
