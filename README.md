@@ -1,6 +1,6 @@
 # 📊 DeFi Liquidity Network
 
-A full DeFi liquidity network built on Aave v3 lending protocol with working contract interfaces, scripts, and examples to wrap ETH, deposit collateral, borrow stablecoins, repay, and withdraw. Whether you’re building a DeFi dApp, trading bot, or lending dashboard, this repo shows how to wire up real lending mechanics.
+A full DeFi liquidity network built on Aave v3 lending protocol with working contract interfaces, scripts, and a web app to wrap ETH, deposit collateral, borrow stablecoins, repay, and withdraw. Whether you’re building a DeFi dApp, trading bot, or lending dashboard, this repo shows how to wire up real lending mechanics.
 
 ## 📖 Overview
 
